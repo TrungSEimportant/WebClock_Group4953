@@ -1,0 +1,4 @@
+Dua vo chat gtp 
+
+Tach loading du lieu category va san pham ra thanh loading tu JSON API
+
