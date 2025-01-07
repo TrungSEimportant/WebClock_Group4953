@@ -59,27 +59,28 @@ Home
 )
 
 Products in the home page
-![Homepage Screenshot](Picture/homepage.png)
-
+![Picture](![image](Products in the home page.png)
+)
+product details.png
 
 Product details
-![Home](![image](https://github.com/user-attachments/assets/d5e39771-bf03-4848-8ee3-b6c46669307b)
+![Picture](![image](product details.png)
 )
 
 Log in
-![Home](screenshots/Screenshot_4.png)
+![Picture](![image](homepage.png)
 
 Register
-![Home](screenshots/Screenshot_4.png)
+![Picture](![image](homepage.png)
 
 Register
-![Home] home](screenshots/Screenshot_5.png)
+![Picture](![image](homepage.png)
 
 User Page
-![Home](screenshots/Screenshot_6.png)
+![Picture](![image](homepage.png)
 
 Cart
-![Home](screenshots/Screenshot_7.png)
+![Picture](![image](homepage.png)
 
 Search/filter/sort products
 ![Home](screenshots/Screenshot_8.png)
@@ -87,13 +88,13 @@ Search/filter/sort products
 ### Admin
 
 Admin: Statistics
-![Home](screenshots/Screenshot_9.png)
+![Picture](![image](homepage.png)
 
 Admin: Products
-![Home](screenshots/Screenshot_10.png)
+![Picture](![image](homepage.png)
 
 Admin: Orders
-![Home](screenshots/Screenshot_11.png)
+![Picture](![image](homepage.png)
 
 Admin: Users
-![Home](screenshots/Screenshot_12.png)
+![Picture](![image](homepage.png)
