@@ -59,42 +59,38 @@ Home
 )
 
 Products in the home page
-![Picture](![image](Products in the home page.png)
+![Picture](![image](Productsinthehomepage.png)
 )
-product details.png
+
 
 Product details
-![Picture](![image](product details.png)
+![Picture](![image](productdetails.png)
 )
 
 Log in
-![Picture](![image](homepage.png)
+![Picture](![image](login.png)
 
 Register
-![Picture](![image](homepage.png)
+![Picture](![image](register.png)
 
-Register
-![Picture](![image](homepage.png)
 
 User Page
-![Picture](![image](homepage.png)
+![Picture](![image](user.png)
 
 Cart
-![Picture](![image](homepage.png)
+![Picture](![image](cart.png)
 
-Search/filter/sort products
-![Home](screenshots/Screenshot_8.png)
 
 ### Admin
 
 Admin: Statistics
-![Picture](![image](homepage.png)
+![Picture](![image](adminpage.png)
 
 Admin: Products
-![Picture](![image](homepage.png)
+![Picture](![image](adminproduct.png)
 
-Admin: Orders
-![Picture](![image](homepage.png)
+Admin: Cart
+![Picture](![image](admincart.png)
 
 Admin: Users
-![Picture](![image](homepage.png)
+![Picture](![image](customer.png)
