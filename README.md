@@ -59,7 +59,8 @@ Home
 )
 
 Products in the home page
-![Home](screenshots/Screenshot_2.png)
+![Homepage Screenshot](Picture/homepage.png)
+
 
 Product details
 ![Home](![image](https://github.com/user-attachments/assets/d5e39771-bf03-4848-8ee3-b6c46669307b)
