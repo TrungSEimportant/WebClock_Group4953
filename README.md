@@ -3,7 +3,7 @@
 <h2>Team Member</h2>
 <li>Trần Anh Trung - 22090002</li>
 <li>Phan Nhất Việt - 22090004</li>
-<li>Lê Quang Lâm - 22090004</li>
+<li>Lê Quang Lâm - 22090012</li>
 
 <h2>Overview</h2>
 Shop VT is a place that sells all kinds of watches with diverse designs and different prices that you can freely choose from and it is also associated with some big brands such as rolex, dior, seiko,...
