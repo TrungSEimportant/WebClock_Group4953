@@ -55,7 +55,7 @@ Shop VT is a place that sells all kinds of watches with diverse designs and diff
 ### Basic
 
 Home
-![Home](![image](https://github.com/user-attachments/assets/d0cceb30-174d-42b8-9794-43c391dad26d)
+![Picture](![image](homepage.png)
 )
 
 Products in the home page
