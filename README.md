@@ -54,43 +54,37 @@ Shop VT is a place that sells all kinds of watches with diverse designs and diff
 
 ### Basic
 
-Home
-![Picture](![image](homepage.png)
-)
+Home  
+![Picture](Picture/homepage.png)
 
-Products in the home page
-![Picture](![image](Productsinthehomepage.png)
-)
+Products in the home page  
+![Picture](Picture/Productsinthehomepage.png)
 
+Product details  
+![Picture](Picture/productdetails.png)
 
-Product details
-![Picture](![image](productdetails.png)
-)
+Log in  
+![Picture](Picture/login.png)
 
-Log in
-![Picture](![image](login.png)
+Register  
+![Picture](Picture/register.png)
 
-Register
-![Picture](![image](register.png)
+User Page  
+![Picture](Picture/user.png)
 
-
-User Page
-![Picture](![image](user.png)
-
-Cart
-![Picture](![image](cart.png)
-
+Cart  
+![Picture](Picture/cart.png)
 
 ### Admin
 
-Admin: Statistics
-![Picture](![image](adminpage.png)
+Admin: Statistics  
+![Picture](Picture/adminpage.png)
 
-Admin: Products
-![Picture](![image](adminproduct.png)
+Admin: Products  
+![Picture](Picture/adminproduct.png)
 
-Admin: Cart
-![Picture](![image](admincart.png)
+Admin: Cart  
+![Picture](Picture/admincart.png)
 
-Admin: Users
-![Picture](![image](customer.png)
+Admin: Users  
+![Picture](Picture/customer.png)
